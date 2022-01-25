@@ -3,7 +3,7 @@ class Auth extends Component{
     Login()
     {
         console.warn("state",this.state)
-        //  alert("Login called")                       
+        //  alert("Login called jjfjfjfjf")                       
     } 
     render(){
         return (
